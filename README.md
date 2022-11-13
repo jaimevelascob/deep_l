@@ -1,2 +1,2 @@
 # deep_l
-implementation of deepl for a asignaturte of university
+implementation of module for complete sentences for deepl asignature of university
